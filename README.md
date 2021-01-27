@@ -1,2 +1,2 @@
 # candyshop
-Candyshop with the JOptionPane class
+Simple candy shop with the JOptionPane class
